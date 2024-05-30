@@ -46,5 +46,37 @@
       {
         "name": "Durian",
         "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/durian.jpg"
+    },
+      {
+        "name": "Grape",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/grape.jpg"
+    },
+      {
+        "name": "Melon",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/melon.jpg"
+    },
+      {
+        "name": "Mango",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/mango.jpg"
+    },
+      {
+        "name": "Lychee",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/lychee.jpg"
+    },
+      {
+        "name": "Lemon",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/lemon.jpg"
+    },
+      {
+        "name": "Kiwi",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/kiwi.jpg"
+    },
+      {
+        "name": "Jackfruit",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/jackfruit.png"
+    },
+      {
+        "name": "Guava",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/guava.jpg"
     }
 ]
