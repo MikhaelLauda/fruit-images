@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Apple",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/apple.jpg"
+    },
+    {
+        "name": "Blackcurrant",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/blackcurrant.jpg"
+    },
+    {
+        "name": "Blackberry",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/blackberry.jpg"
+    },
+    {
+        "name": "Banana",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/banana.jpg"
+    },
+    {
+        "name": "Avocado",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/avocado.jpg"
+    },
+      {
+        "name": "Blueberry",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/blueberry.jpg"
+    },
+      {
+        "name": "Cherry",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/cherry.jpg"
+    },
+      {
+        "name": "Apricot",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/apricot.jpg"
+    },
+      {
+        "name": "Coconut",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/coconut.jpg"
+    },
+      {
+        "name": "Cranberry",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/cranberry.jpg"
+    }
+]
