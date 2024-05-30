@@ -38,5 +38,13 @@
       {
         "name": "Cranberry",
         "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/cranberry.jpg"
+    },
+      {
+        "name": "Dragonfruit",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/dragonfruit.jpg"
+    },
+      {
+        "name": "Durian",
+        "image": "https://raw.githubusercontent.com/MikhaelLauda/fruit-images/main/durian.jpg"
     }
 ]
